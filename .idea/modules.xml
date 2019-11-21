@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalagenericmath.iml" filepath="$PROJECT_DIR$/.idea/modules/scalagenericmath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaGenericMath.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaGenericMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaGenericMath-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaGenericMath-build.iml" />
     </modules>
   </component>
 </project>
